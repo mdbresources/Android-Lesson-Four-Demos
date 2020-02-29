@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageDownloader</string>
+    <string name="timer_finished">Timer Finished!</string>
+</resources>
